@@ -13,7 +13,7 @@ using System;
 		int soma = numero2 - numero1;
 		
 		
-		Console.Write("A soma dos numeros é :  " + soma);
+		Console.Write("A divisao dos numeros é :  " + soma);
 		Console.Write(Console.ReadLine());
 		
 		Console.WriteLine("aperte qualquer tecla para fechar");
